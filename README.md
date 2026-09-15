@@ -1,5 +1,5 @@
 hello my name is Landyn Littlejohn. I go to newbbery college, and I'm a computer science major.## Hi there 👋
-
+I am learning how to code java script and python. 
 <!--
 **Landyn006/Landyn006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
